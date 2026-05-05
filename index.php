@@ -1,4 +1,3 @@
-<php
+<?php
 echo "indexLandingPae PHP working";
-
 ?>
